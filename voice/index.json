@@ -1,0 +1,612 @@
+{
+ "model": "gpt-realtime-2.1",
+ "voices": {
+  "min": "cedar",
+  "sera": "marin",
+  "doyun": "echo",
+  "yujin": "coral",
+  "narrator": "alloy"
+ },
+ "lines": [
+  {
+   "who": "min",
+   "text": "저는 밤새 정문 앞을 지켰습니다.",
+   "file": "voice/min/01.mp3",
+   "seconds": 2.69
+  },
+  {
+   "who": "min",
+   "text": "한 발짝도 떠나지 않았습니다.",
+   "file": "voice/min/02.mp3",
+   "seconds": 2.52
+  },
+  {
+   "who": "min",
+   "text": "출입자 없음, 잠금 이상 없음, 봉인 이상 없음.",
+   "file": "voice/min/03.mp3",
+   "seconds": 4.92
+  },
+  {
+   "who": "min",
+   "text": "다시 말씀드리겠습니다.",
+   "file": "voice/min/04.mp3",
+   "seconds": 1.61
+  },
+  {
+   "who": "min",
+   "text": "9분 늦은 것, 맞습니다.",
+   "file": "voice/min/05.mp3",
+   "seconds": 2.9
+  },
+  {
+   "who": "min",
+   "text": "자리를 뜬 것은 아닙니다.",
+   "file": "voice/min/06.mp3",
+   "seconds": 1.94
+  },
+  {
+   "who": "min",
+   "text": "아침 교대 때 올릴 근무 보고 문장을 수첩에 적어 외우다가 시간을 놓쳤습니다.",
+   "file": "voice/min/07.mp3",
+   "seconds": 5.93
+  },
+  {
+   "who": "min",
+   "text": "긴장하면 말을 더듬어서 늘 그렇게 연습합니다.",
+   "file": "voice/min/08.mp3",
+   "seconds": 3.14
+  },
+  {
+   "who": "min",
+   "text": "외운 것처럼 들렸다면 정말 외웠기 때문입니다.",
+   "file": "voice/min/09.mp3",
+   "seconds": 3.65
+  },
+  {
+   "who": "min",
+   "text": "단추를 늦게 눌렀어도, 봉인을 풀 때까지 그 문은 한 번도 열리지 않았습니다.",
+   "file": "voice/min/10.mp3",
+   "seconds": 5.78
+  },
+  {
+   "who": "min",
+   "text": "안개가 터졌을 때도 저는 문 앞에 있었습니다.",
+   "file": "voice/min/11.mp3",
+   "seconds": 3.36
+  },
+  {
+   "who": "min",
+   "text": "정문 유리 너머로 뿌연 것만 보였고, 그 안에서 움직이는 사람은 없었습니다.",
+   "file": "voice/min/12.mp3",
+   "seconds": 5.62
+  },
+  {
+   "who": "min",
+   "text": "받침대 뒤에 서랍이 있다는 것은 지금 처음 들었습니다.",
+   "file": "voice/min/13.mp3",
+   "seconds": 3.84
+  },
+  {
+   "who": "min",
+   "text": "제 자리는 정문 앞이고, 복도는 문 앞에서 보이는 데까지만 봅니다.",
+   "file": "voice/min/14.mp3",
+   "seconds": 4.46
+  },
+  {
+   "who": "min",
+   "text": "조명 부스 열쇠는 저한테 없습니다.",
+   "file": "voice/min/15.mp3",
+   "seconds": 2.86
+  },
+  {
+   "who": "min",
+   "text": "그것은 제 근무 기록 밖의 일입니다.",
+   "file": "voice/min/16.mp3",
+   "seconds": 2.59
+  },
+  {
+   "who": "min",
+   "text": "추측으로 말씀드리지는 않겠습니다.",
+   "file": "voice/min/17.mp3",
+   "seconds": 2.42
+  },
+  {
+   "who": "min",
+   "text": "그 종이는 01시 40분쯤 복도 게시판에 붙어 있던 것입니다.",
+   "file": "voice/min/18.mp3",
+   "seconds": 4.9
+  },
+  {
+   "who": "min",
+   "text": "누가 메모를 적었는지는 보지 못했습니다.",
+   "file": "voice/min/19.mp3",
+   "seconds": 3.38
+  },
+  {
+   "who": "sera",
+   "text": "정문이 봉인된 뒤로는 보존실에서 상태 기록을 정리했어요.",
+   "file": "voice/sera/01.mp3",
+   "seconds": 4.1
+  },
+  {
+   "who": "sera",
+   "text": "사건이 알려진 뒤 경비분이 봉인을 풀어 줘서 들어갔어요.",
+   "file": "voice/sera/02.mp3",
+   "seconds": 3.91
+  },
+  {
+   "who": "sera",
+   "text": "받침대를 살피다가 뒤쪽 바닥에서 붉은 가루를 봤어요.",
+   "file": "voice/sera/03.mp3",
+   "seconds": 4.54
+  },
+  {
+   "who": "sera",
+   "text": "렌즈에서 떨어진 건 아니에요.",
+   "file": "voice/sera/04.mp3",
+   "seconds": 2.21
+  },
+  {
+   "who": "sera",
+   "text": "어디서 나왔는지는 저도 모르겠어요.",
+   "file": "voice/sera/05.mp3",
+   "seconds": 2.81
+  },
+  {
+   "who": "sera",
+   "text": "오늘 밤 진열대에 마지막으로 손을 댄 사람은 아마 저일 거예요.",
+   "file": "voice/sera/06.mp3",
+   "seconds": 4.68
+  },
+  {
+   "who": "sera",
+   "text": "02시 19분에 봉인을 풀 때 저도 옆에 있었어요.",
+   "file": "voice/sera/07.mp3",
+   "seconds": 4.2
+  },
+  {
+   "who": "sera",
+   "text": "번호를 대장과 맞춰 보고 나서 같이 들어갔어요.",
+   "file": "voice/sera/08.mp3",
+   "seconds": 3.62
+  },
+  {
+   "who": "sera",
+   "text": "그 전에는 아무도 들어가지 못했어요.",
+   "file": "voice/sera/09.mp3",
+   "seconds": 3.14
+  },
+  {
+   "who": "sera",
+   "text": "그건 봉인하기 전 마지막 점검이에요.",
+   "file": "voice/sera/10.mp3",
+   "seconds": 2.71
+  },
+  {
+   "who": "sera",
+   "text": "받침대 수평을 보느라 뒤로 돌아가 바닥까지 살폈고, 그때는 아무것도 없었어요.",
+   "file": "voice/sera/11.mp3",
+   "seconds": 6.1
+  },
+  {
+   "who": "sera",
+   "text": "점검표에도 ‘뒤쪽 바닥 이물 없음’이라고 적어 뒀어요.",
+   "file": "voice/sera/12.mp3",
+   "seconds": 4.03
+  },
+  {
+   "who": "sera",
+   "text": "그 뒤로 02시 16분까지 렌즈가 화면에 그대로 있잖아요.",
+   "file": "voice/sera/13.mp3",
+   "seconds": 4.54
+  },
+  {
+   "who": "sera",
+   "text": "레일 왁스였군요.",
+   "file": "voice/sera/14.mp3",
+   "seconds": 1.51
+  },
+  {
+   "who": "sera",
+   "text": "먼지치고는 장갑 끝에 미끈하게 묻어나서 이상했어요.",
+   "file": "voice/sera/15.mp3",
+   "seconds": 3.82
+  },
+  {
+   "who": "sera",
+   "text": "서랍이 움직일 때 레일에서 깎여 나오는 거예요.",
+   "file": "voice/sera/16.mp3",
+   "seconds": 3.5
+  },
+  {
+   "who": "sera",
+   "text": "제가 01시 52분에 봤을 때는 바닥이 깨끗했으니, 서랍은 그 뒤에 움직인 거죠.",
+   "file": "voice/sera/17.mp3",
+   "seconds": 5.93
+  },
+  {
+   "who": "sera",
+   "text": "그리고 전시실 쪽에는 손잡이가 없어서 저는 열 수가 없어요.",
+   "file": "voice/sera/18.mp3",
+   "seconds": 4.66
+  },
+  {
+   "who": "sera",
+   "text": "조명 기록은 제가 읽을 줄 몰라요.",
+   "file": "voice/sera/19.mp3",
+   "seconds": 2.81
+  },
+  {
+   "who": "sera",
+   "text": "다만 02시 30분 점검은 보존실에도 미리 알림이 왔어요.",
+   "file": "voice/sera/20.mp3",
+   "seconds": 4.92
+  },
+  {
+   "who": "sera",
+   "text": "02시 17분에 무언가 돌린다는 얘기는 들은 적이 없어요.",
+   "file": "voice/sera/21.mp3",
+   "seconds": 4.3
+  },
+  {
+   "who": "sera",
+   "text": "그건 제 보존 기록과는 상관이 없는 자료예요.",
+   "file": "voice/sera/22.mp3",
+   "seconds": 3.84
+  },
+  {
+   "who": "sera",
+   "text": "제가 보탤 말이 없네요.",
+   "file": "voice/sera/23.mp3",
+   "seconds": 1.75
+  },
+  {
+   "who": "doyun",
+   "text": "02시 17분에는 부스를 비우고 로비 쪽 복도에 나와 있었습니다.",
+   "file": "voice/doyun/01.mp3",
+   "seconds": 5.3
+  },
+  {
+   "who": "doyun",
+   "text": "그 시각의 조명 변화는 예약표에 잡힌 자동 점검입니다.",
+   "file": "voice/doyun/02.mp3",
+   "seconds": 5.04
+  },
+  {
+   "who": "doyun",
+   "text": "시스템이 알아서 돌린 것이고, 저는 콘솔에 손도 대지 않았습니다.",
+   "file": "voice/doyun/03.mp3",
+   "seconds": 5.02
+  },
+  {
+   "who": "doyun",
+   "text": "그 자료는 제가 드릴 말씀이 없습니다.",
+   "file": "voice/doyun/04.mp3",
+   "seconds": 2.9
+  },
+  {
+   "who": "doyun",
+   "text": "제가 아는 범위 밖의 일입니다.",
+   "file": "voice/doyun/05.mp3",
+   "seconds": 2.38
+  },
+  {
+   "who": "doyun",
+   "text": "안개 장치는 신호를 받으면 터집니다.",
+   "file": "voice/doyun/06.mp3",
+   "seconds": 3.22
+  },
+  {
+   "who": "doyun",
+   "text": "점검 큐에 안개가 묶여 있으니, 점검이 돌면 안개도 나오는 겁니다.",
+   "file": "voice/doyun/07.mp3",
+   "seconds": 5.66
+  },
+  {
+   "who": "doyun",
+   "text": "제가 보낸 신호는 아닙니다.",
+   "file": "voice/doyun/08.mp3",
+   "seconds": 2.35
+  },
+  {
+   "who": "doyun",
+   "text": "정비 서랍 말씀이군요.",
+   "file": "voice/doyun/09.mp3",
+   "seconds": 1.82
+  },
+  {
+   "who": "doyun",
+   "text": "손잡이가 부스 안쪽에 있는 것은 맞습니다.",
+   "file": "voice/doyun/10.mp3",
+   "seconds": 3.22
+  },
+  {
+   "who": "doyun",
+   "text": "하지만 그 시각 부스는 비어 있었고, 안개도 시스템이 예약대로 터뜨린 것입니다.",
+   "file": "voice/doyun/11.mp3",
+   "seconds": 6.05
+  },
+  {
+   "who": "doyun",
+   "text": "빈 부스에서, 누가 만들지도 않은 8초에 맞춰 서랍이 당겨졌다는 말씀입니까.",
+   "file": "voice/doyun/12.mp3",
+   "seconds": 5.83
+  },
+  {
+   "who": "doyun",
+   "text": "수동이라고 찍혀 있다고요.",
+   "file": "voice/doyun/13.mp3",
+   "seconds": 2.14
+  },
+  {
+   "who": "doyun",
+   "text": "기록이 잘못 찍힌 걸 겁니다.",
+   "file": "voice/doyun/14.mp3",
+   "seconds": 2.04
+  },
+  {
+   "who": "doyun",
+   "text": "설령 누가 단추를 눌렀어도 조명이 한 번 바뀐 것과 렌즈가 없어진 건 별개입니다.",
+   "file": "voice/doyun/15.mp3",
+   "seconds": 6.65
+  },
+  {
+   "who": "doyun",
+   "text": "조명 기록에는 닫힌 유리 덮개를 렌즈가 어떻게 빠져나갔는지 한 줄도 없잖습니까.",
+   "file": "voice/doyun/16.mp3",
+   "seconds": 6.34
+  },
+  {
+   "who": "doyun",
+   "text": "부스에 장비 수레가 한 대 있습니다.",
+   "file": "voice/doyun/17.mp3",
+   "seconds": 2.62
+  },
+  {
+   "who": "doyun",
+   "text": "벽 쪽에 붙여 두는데 바퀴 잠금쇠가 헐거워서 가만히 둬도 풀릴 때가 있습니다.",
+   "file": "voice/doyun/18.mp3",
+   "seconds": 5.76
+  },
+  {
+   "who": "doyun",
+   "text": "그 시각에 왜 소리가 났는지는 저도 모르겠습니다.",
+   "file": "voice/doyun/19.mp3",
+   "seconds": 3.53
+  },
+  {
+   "who": "doyun",
+   "text": "그 연필 글씨는 제 것입니다.",
+   "file": "voice/doyun/20.mp3",
+   "seconds": 2.33
+  },
+  {
+   "who": "doyun",
+   "text": "제가 설계한 연출인데 이름이 빠졌으니 정정을 요청했습니다.",
+   "file": "voice/doyun/21.mp3",
+   "seconds": 4.39
+  },
+  {
+   "who": "doyun",
+   "text": "받아들여지지 않았고, 기분이 좋았다고는 못 하겠습니다.",
+   "file": "voice/doyun/22.mp3",
+   "seconds": 4.25
+  },
+  {
+   "who": "doyun",
+   "text": "하지만 서운한 것과 전시물에 손을 대는 것은 다른 일입니다.",
+   "file": "voice/doyun/23.mp3",
+   "seconds": 4.58
+  },
+  {
+   "who": "yujin",
+   "text": "복도 끝 음향 데스크에서 안개 연출 현장음을 녹음하고 있었어요.",
+   "file": "voice/yujin/01.mp3",
+   "seconds": 5.69
+  },
+  {
+   "who": "yujin",
+   "text": "헤드폰 너머로 조명 부스 쪽에서 수레가 딸깍하는 소리가 났어요.",
+   "file": "voice/yujin/02.mp3",
+   "seconds": 5.4
+  },
+  {
+   "who": "yujin",
+   "text": "레벨 미터만 보고 있어서 눈으로는 아무것도 보지 못했어요.",
+   "file": "voice/yujin/03.mp3",
+   "seconds": 4.13
+  },
+  {
+   "who": "yujin",
+   "text": "그 자료는 제가 직접 본 게 아니라서요.",
+   "file": "voice/yujin/04.mp3",
+   "seconds": 2.78
+  },
+  {
+   "who": "yujin",
+   "text": "제 녹음에 남은 것 말고는 아는 게 없어요.",
+   "file": "voice/yujin/05.mp3",
+   "seconds": 3.1
+  },
+  {
+   "who": "yujin",
+   "text": "그 서랍이 조명 부스 쪽으로 빠진다면 제가 소리를 들은 방향과 같네요.",
+   "file": "voice/yujin/06.mp3",
+   "seconds": 5.45
+  },
+  {
+   "who": "yujin",
+   "text": "다만 저는 수레 소리로 들었어요.",
+   "file": "voice/yujin/07.mp3",
+   "seconds": 2.93
+  },
+  {
+   "who": "yujin",
+   "text": "서랍 소리인지는 장담하지 못해요.",
+   "file": "voice/yujin/08.mp3",
+   "seconds": 2.93
+  },
+  {
+   "who": "yujin",
+   "text": "02시 17분 00초에 수동 실행이라면 제 녹음과 맞아요.",
+   "file": "voice/yujin/09.mp3",
+   "seconds": 4.8
+  },
+  {
+   "who": "yujin",
+   "text": "00초에 안개가 터지고 3초 뒤에 부스 쪽에서 딸깍 소리가 났거든요.",
+   "file": "voice/yujin/10.mp3",
+   "seconds": 5.18
+  },
+  {
+   "who": "yujin",
+   "text": "누가 눌렀는지는 소리로는 알 수 없지만요.",
+   "file": "voice/yujin/11.mp3",
+   "seconds": 3.14
+  },
+  {
+   "who": "yujin",
+   "text": "안개는 원래 02시 30분 점검 때 터질 예정이었어요.",
+   "file": "voice/yujin/12.mp3",
+   "seconds": 4.92
+  },
+  {
+   "who": "yujin",
+   "text": "놓치기 싫어서 02시 10분부터 미리 녹음을 걸어 뒀어요.",
+   "file": "voice/yujin/13.mp3",
+   "seconds": 4.63
+  },
+  {
+   "who": "yujin",
+   "text": "기다리는데 13분이나 일찍 터졌어요.",
+   "file": "voice/yujin/14.mp3",
+   "seconds": 3.41
+  },
+  {
+   "who": "yujin",
+   "text": "그래서 제 목소리가 들어간 거예요.",
+   "file": "voice/yujin/15.mp3",
+   "seconds": 2.83
+  },
+  {
+   "who": "yujin",
+   "text": "그 순간 저는 데스크 마이크 앞에 앉아 있었어요.",
+   "file": "voice/yujin/16.mp3",
+   "seconds": 3.79
+  },
+  {
+   "who": "yujin",
+   "text": "딸깍 소리는 부스 쪽 벽 마이크에만 잡혔고요.",
+   "file": "voice/yujin/17.mp3",
+   "seconds": 3.46
+  },
+  {
+   "who": "yujin",
+   "text": "파란 펜은 제 글씨예요.",
+   "file": "voice/yujin/18.mp3",
+   "seconds": 2.69
+  },
+  {
+   "who": "yujin",
+   "text": "저도 이름이 빠졌으니까요.",
+   "file": "voice/yujin/19.mp3",
+   "seconds": 2.62
+  },
+  {
+   "who": "yujin",
+   "text": "화는 났지만 그 시간에 저는 데스크에서 녹음하고 있었고, 그건 파일이 말해 줘요.",
+   "file": "voice/yujin/20.mp3",
+   "seconds": 5.98
+  },
+  {
+   "who": "narrator",
+   "text": "새벽 두 시 십칠 분.",
+   "file": "voice/narrator/01.mp3",
+   "seconds": 2.23
+  },
+  {
+   "who": "narrator",
+   "text": "유리 진열대에 안개가 밀려오고, 등대 시제품 렌즈가 사라졌다.",
+   "file": "voice/narrator/02.mp3",
+   "seconds": 5.09
+  },
+  {
+   "who": "narrator",
+   "text": "정문 봉인은 그대로다.",
+   "file": "voice/narrator/03.mp3",
+   "seconds": 1.9
+  },
+  {
+   "who": "narrator",
+   "text": "개장까지 남은 조사 기회는 아홉 번, 결론을 낼 기회는 세 번.",
+   "file": "voice/narrator/04.mp3",
+   "seconds": 5.35
+  },
+  {
+   "who": "narrator",
+   "text": "홍보 패널 교정지에 ‘반영 불가, 인쇄 확정’ 도장이 찍혔습니다.",
+   "file": "voice/narrator/05.mp3",
+   "seconds": 5.54
+  },
+  {
+   "who": "narrator",
+   "text": "크레디트에는 전시 프로듀서의 이름만 남았습니다.",
+   "file": "voice/narrator/06.mp3",
+   "seconds": 3.7
+  },
+  {
+   "who": "narrator",
+   "text": "문세라가 마지막 점검을 했고, 받침대 뒤 바닥은 깨끗했습니다.",
+   "file": "voice/narrator/07.mp3",
+   "seconds": 5.09
+  },
+  {
+   "who": "narrator",
+   "text": "정문이 잠기고 봉인됐습니다.",
+   "file": "voice/narrator/08.mp3",
+   "seconds": 2.45
+  },
+  {
+   "who": "narrator",
+   "text": "02시 19분에 봉인을 풀 때까지 문은 한 번도 열리지 않았습니다.",
+   "file": "voice/narrator/09.mp3",
+   "seconds": 5.18
+  },
+  {
+   "who": "narrator",
+   "text": "서유진이 02시 30분 점검을 기다리며 녹음을 시작했습니다.",
+   "file": "voice/narrator/10.mp3",
+   "seconds": 4.73
+  },
+  {
+   "who": "narrator",
+   "text": "한도윤이 조명 부스 콘솔에서 큐를 손으로 실행했습니다.",
+   "file": "voice/narrator/11.mp3",
+   "seconds": 4.66
+  },
+  {
+   "who": "narrator",
+   "text": "진열대 조명이 낮아지고 안개가 터졌습니다.",
+   "file": "voice/narrator/12.mp3",
+   "seconds": 3.55
+  },
+  {
+   "who": "narrator",
+   "text": "한도윤이 부스 안쪽 손잡이로 정비 서랍을 당겨 렌즈를 받침판째 빼냈고, 장비 수레에 실었습니다.",
+   "file": "voice/narrator/13.mp3",
+   "seconds": 7.85
+  },
+  {
+   "who": "narrator",
+   "text": "수레의 잠금쇠가 딸깍 소리를 냈습니다.",
+   "file": "voice/narrator/14.mp3",
+   "seconds": 3.46
+  },
+  {
+   "who": "narrator",
+   "text": "안개가 걷혔을 때 유리 덮개는 닫힌 채였고 렌즈만 없었습니다.",
+   "file": "voice/narrator/15.mp3",
+   "seconds": 5.52
+  }
+ ]
+}
