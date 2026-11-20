@@ -186,7 +186,7 @@
    "who": "sera",
    "text": "받침대 수평을 보느라 뒤로 돌아가 바닥까지 살폈는데, 그때는 아무것도 없었어요.",
    "file": "voice/sera/11.mp3",
-   "seconds": 6.29
+   "seconds": 5.98
   },
   {
    "who": "sera",
@@ -334,68 +334,80 @@
   },
   {
    "who": "doyun",
-   "text": "수동이라고 찍혀 있다고요.",
+   "text": "H.D.Y.는 제 서명이 맞습니다.",
    "file": "voice/doyun/13.mp3",
-   "seconds": 2.14
+   "seconds": 3.19
   },
   {
    "who": "doyun",
-   "text": "기록이 잘못 남은 겁니다.",
+   "text": "그 큐를 짜서 올린 사람이 저니까요.",
    "file": "voice/doyun/14.mp3",
-   "seconds": 1.85
+   "seconds": 3.24
+  },
+  {
+   "who": "doyun",
+   "text": "하지만 서명은 누가 눌렀는지를 말해 주지 않습니다.",
+   "file": "voice/doyun/15.mp3",
+   "seconds": 3.74
+  },
+  {
+   "who": "doyun",
+   "text": "수동이라고 찍힌 건 기록이 잘못 남은 겁니다.",
+   "file": "voice/doyun/16.mp3",
+   "seconds": 3.36
   },
   {
    "who": "doyun",
    "text": "누가 단추를 눌렀다 해도, 조명이 바뀐 것과 렌즈가 사라진 건 별개입니다.",
-   "file": "voice/doyun/15.mp3",
+   "file": "voice/doyun/17.mp3",
    "seconds": 6.14
   },
   {
    "who": "doyun",
    "text": "닫힌 유리 덮개에서 렌즈가 어떻게 빠져나갔는지, 조명 기록엔 한 줄도 없지 않습니까.",
-   "file": "voice/doyun/16.mp3",
+   "file": "voice/doyun/18.mp3",
    "seconds": 6.53
   },
   {
    "who": "doyun",
    "text": "부스에 장비 수레가 한 대 있습니다.",
-   "file": "voice/doyun/17.mp3",
+   "file": "voice/doyun/19.mp3",
    "seconds": 2.62
   },
   {
    "who": "doyun",
    "text": "벽에 붙여 두는데, 바퀴 잠금쇠가 헐거워서 가만히 둬도 풀릴 때가 있습니다.",
-   "file": "voice/doyun/18.mp3",
+   "file": "voice/doyun/20.mp3",
    "seconds": 6.0
   },
   {
    "who": "doyun",
    "text": "그 시각에 왜 소리가 났는지는 저도 모르겠습니다.",
-   "file": "voice/doyun/19.mp3",
+   "file": "voice/doyun/21.mp3",
    "seconds": 3.53
   },
   {
    "who": "doyun",
    "text": "그 연필 글씨는 제 겁니다.",
-   "file": "voice/doyun/20.mp3",
+   "file": "voice/doyun/22.mp3",
    "seconds": 2.38
   },
   {
    "who": "doyun",
    "text": "제가 설계한 연출인데 이름이 빠져서 정정을 요청했습니다.",
-   "file": "voice/doyun/21.mp3",
+   "file": "voice/doyun/23.mp3",
    "seconds": 4.27
   },
   {
    "who": "doyun",
    "text": "받아들여지지 않았으니 기분이 좋았다고는 못 하겠습니다.",
-   "file": "voice/doyun/22.mp3",
+   "file": "voice/doyun/24.mp3",
    "seconds": 4.34
   },
   {
    "who": "doyun",
    "text": "하지만 서운한 것과 전시물에 손대는 건 다른 일입니다.",
-   "file": "voice/doyun/23.mp3",
+   "file": "voice/doyun/25.mp3",
    "seconds": 3.94
   },
   {
@@ -544,9 +556,9 @@
   },
   {
    "who": "narrator",
-   "text": "개장까지 조사 기회는 아홉 번, 결론을 낼 기회는 세 번뿐이다.",
+   "text": "개장 전 마지막 점검을 맡은 당신 앞에 네 사람이 남아 있고, 승인란은 아직 비어 있다.",
    "file": "voice/narrator/04.mp3",
-   "seconds": 5.45
+   "seconds": 7.13
   },
   {
    "who": "narrator",
@@ -613,6 +625,90 @@
    "text": "안개가 걷혔을 때 유리 덮개는 닫힌 채였고 렌즈만 없었습니다.",
    "file": "voice/narrator/15.mp3",
    "seconds": 5.52
+  },
+  {
+   "who": "doyun",
+   "text": "…부스에 있었습니다. 제가 눌렀습니다.",
+   "file": "voice/doyun/26.mp3",
+   "seconds": 2.62
+  },
+  {
+   "who": "doyun",
+   "text": "점검을 조금 앞당겼을 뿐입니다. 조명을 바꾼 것과 렌즈를 가져간 건 다른 일입니다.",
+   "file": "voice/doyun/27.mp3",
+   "seconds": 6.62
+  },
+  {
+   "who": "narrator",
+   "text": "수레 윗면에 작업천 한 장이 덮여 있다. 천을 걷자 렌즈가 드러난다.",
+   "file": "voice/narrator/16.mp3",
+   "seconds": 6.34
+  },
+  {
+   "who": "sera",
+   "text": "잠깐만요. 제가 들게요.",
+   "file": "voice/sera/24.mp3",
+   "seconds": 2.47
+  },
+  {
+   "who": "narrator",
+   "text": "문세라가 새 장갑을 끼고 렌즈를 두 손으로 받쳐 든다. 받침판은 서랍에 남고, 렌즈만 이곳에 와 있었다.",
+   "file": "voice/narrator/17.mp3",
+   "seconds": 9.19
+  },
+  {
+   "who": "sera",
+   "text": "렌즈 맞아요. 흠집은 없어요. 상태부터 기록할게요.",
+   "file": "voice/sera/25.mp3",
+   "seconds": 4.08
+  },
+  {
+   "who": "doyun",
+   "text": "…서랍을 당겼습니다.",
+   "file": "voice/doyun/28.mp3",
+   "seconds": 1.85
+  },
+  {
+   "who": "doyun",
+   "text": "렌즈만 들어 수레에 올렸습니다. 받침판은 도로 밀어 넣었고, 유리에는 손대지 않았습니다. 아침에는 돌려놓을 생각이었습니다.",
+   "file": "voice/doyun/29.mp3",
+   "seconds": 11.09
+  },
+  {
+   "who": "doyun",
+   "text": "제 이름이 빠진 걸 보고 정정을 요청했습니다. 오늘 밤에도요. 돌아온 건 반영 불가 도장이었습니다.",
+   "file": "voice/doyun/30.mp3",
+   "seconds": 8.38
+  },
+  {
+   "who": "doyun",
+   "text": "렌즈가 없으면 개장이 한 번은 멈출 테니까요. 그때라도 누가 이 연출을 만들었는지 물어 줄 줄 알았습니다.",
+   "file": "voice/doyun/31.mp3",
+   "seconds": 8.23
+  },
+  {
+   "who": "yujin",
+   "text": "저도 이름이 빠졌어요. 그 종이에 저도 적었어요.",
+   "file": "voice/yujin/22.mp3",
+   "seconds": 3.84
+  },
+  {
+   "who": "narrator",
+   "text": "서유진은 말을 더 잇지 않는다. 문세라가 렌즈를 점검대에 내려놓고 새 기록지를 편다.",
+   "file": "voice/narrator/18.mp3",
+   "seconds": 6.98
+  },
+  {
+   "who": "narrator",
+   "text": "한도윤은 자신의 진술 아래에 이름을 적는다. 당신은 보고서에 안개가 터진 시각과 렌즈가 지나간 길, 회수한 자리를 적는다.",
+   "file": "voice/narrator/19.mp3",
+   "seconds": 10.58
+  },
+  {
+   "who": "narrator",
+   "text": "홍보 패널 교정지와 두 사람의 정정 요청도 함께 붙인다. 문세라가 상태 확인을 마칠 때까지, 개장 승인란은 비워 둔다.",
+   "file": "voice/narrator/20.mp3",
+   "seconds": 10.56
   }
  ]
 }
